@@ -15,11 +15,25 @@
   <a href="https://www.99freelas.com.br/user/robson-avagliano" target="_blank"><img align="right" alt="EU" height="150" style="border-radius:50px;" src="https://99freelas.s3-sa-east-1.amazonaws.com/profile/210x210/robson-avagliano.jpg?m=1650997160213" href="https://www.99freelas.com.br/user/robson-avagliano"></a>
 
 </div>
+
+## Possuo os seguintes cursos na área de TI:
+  - Tecnologia em Manutenção e Montagem de Computadores (SENAI 60h em 1999)
+  - Web Design (SENAC 40h em 2001) 
+  - Estágio de Redes TCP/IP e Telefonia (3º CTA/Exército 36h em 2006)
+  - Administração de Redes Linux (ENAP 30h em 2007)
+  - Estágio de Joomla (3º CTA/Exército 10h em 2011)
+  - Estágio Aplicado à Tecnologia da Informação (3º CTA/Exército 20h em 2011)
+  - Lógica de Programação (SENAI 14h em 2017)
+  - Linguagem de Programação C# Avançado (Fundação Bradesco 12h em 2022)
+  - Pystach Week3.0 Python/Django (Pythonando 6h em 2022)
+  - Maratona de Programação HTML, CSS e JavaScript (Kenzie Academy 5h em 2022)
+  - NLW Return HTML, CSS e JavaScript (Roketseat 8h em 2022)
   
   ##
 <div>
     <a href = "mailto:robson.avagliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/robson-rodrigues-5687a341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
