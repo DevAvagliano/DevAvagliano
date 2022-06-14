@@ -1,4 +1,4 @@
-## Olá, eu sou a Robson! Web Dev (back-end/front-end)!
+## Olá, eu sou o Robson! Dev back-end e front-end
 <div align="center">
   <a href="https://github.com/DevAvagliano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAvagliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,8 +13,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="https://www.99freelas.com.br/user/robson-avagliano" target="_blank"><img align="right" alt="EU" height="150" style="border-radius:50px;" src="https://99freelas.s3-sa-east-1.amazonaws.com/profile/210x210/robson-avagliano.jpg?m=1650997160213" href="https://www.99freelas.com.br/user/robson-avagliano"></a>
- ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sutil&repo=Sutil&countColorcountColor)
-
+ 
 </div>
 
 ## Possuo os seguintes cursos na área de TI:
@@ -38,3 +37,6 @@
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sutil&repo=Sutil&countColorcountColor)
+
