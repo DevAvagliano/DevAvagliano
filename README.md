@@ -38,5 +38,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sutil&repo=Sutil&countColorcountColor)
+  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=DevAvagliano&repo=DevAvagliano&countColorcountColor)
 
