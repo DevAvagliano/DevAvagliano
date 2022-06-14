@@ -13,6 +13,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="https://www.99freelas.com.br/user/robson-avagliano" target="_blank"><img align="right" alt="EU" height="150" style="border-radius:50px;" src="https://99freelas.s3-sa-east-1.amazonaws.com/profile/210x210/robson-avagliano.jpg?m=1650997160213" href="https://www.99freelas.com.br/user/robson-avagliano"></a>
+ ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sutil&repo=Sutil&countColorcountColor)
 
 </div>
 
@@ -25,9 +26,9 @@
   - Estágio Aplicado à Tecnologia da Informação (3º CTA/Exército 20h em 2011)
   - Lógica de Programação (SENAI 14h em 2017)
   - Linguagem de Programação C# Avançado (Fundação Bradesco 12h em 2022)
-  - Pystach Week3.0 Python/Django (Pythonando 6h em 2022)
-  - Maratona de Programação HTML, CSS e JavaScript (Kenzie Academy 5h em 2022)
-  - NLW Return HTML, CSS e JavaScript (Roketseat 8h em 2022)
+  - PyStack Week3.0 Python/Django (Pythonando 20h em 2022)
+  - Maratona de Programação HTML, CSS e JavaScript (Kenzie Academy 15h em 2022)
+  - NLW Return HTML, CSS e JavaScript (Roketseat 20h em 2022)
   
   ##
 <div>
