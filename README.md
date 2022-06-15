@@ -12,7 +12,7 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <a href="https://www.99freelas.com.br/user/robson-avagliano" target="_blank"><img align="right" alt="EU" height="150" style="border-radius:50px;" src="https://99freelas.s3-sa-east-1.amazonaws.com/profile/210x210/robson-avagliano.jpg?m=1650997160213" href="https://www.99freelas.com.br/user/robson-avagliano"></a>
+  <a href="https://www.99freelas.com.br/user/robson-avagliano" target="_blank"><img align="right" alt="EU" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/104702340?s=96&v=4"></a>
  
 </div>
 
