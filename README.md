@@ -17,17 +17,17 @@
 </div>
 
 ## Possuo os seguintes cursos na área de TI:
-  - Tecnologia em Manutenção e Montagem de Computadores (SENAI 60h em 1999)
-  - Web Design (SENAC 40h em 2001) 
-  - Estágio de Redes TCP/IP e Telefonia (3º CTA/Exército 36h em 2006)
-  - Administração de Redes Linux (ENAP 30h em 2007)
-  - Estágio de Joomla (3º CTA/Exército 10h em 2011)
-  - Estágio Aplicado à Tecnologia da Informação (3º CTA/Exército 20h em 2011)
-  - Lógica de Programação (SENAI 14h em 2017)
-  - Linguagem de Programação C# Avançado (Fundação Bradesco 12h em 2022)
-  - PyStack Week3.0 Python/Django (Pythonando 20h em 2022)
-  - Maratona de Programação HTML, CSS e JavaScript (Kenzie Academy 15h em 2022)
-  - NLW Return HTML, CSS e JavaScript (Roketseat 20h em 2022)
+  - Tecnologia em Manutenção e Montagem de Computadores (Senai, 1999, 60hs)
+  - Web Design (Senac, 2001, 40hs) 
+  - Estágio de Redes TCP/IP e Telefonia (Exército, 2006, 36hs)
+  - Administração de Redes Linux (ENAP, 2007, 30hs)
+  - Estágio de Joomla (Exército, 2011, 10hs)
+  - Estágio Aplicado à Tecnologia da Informação (Exército, 2011, 20hs)
+  - Lógica de Programação (Senai, 2017, 14hs)
+  - Linguagem de Programação C# Avançado (Fundação Bradesco, 2022, 12hs)
+  - PyStack Week3.0 Python/Django (Pytonando, 2022, 20hs)
+  - Maratona de Programação HTML, CSS e JavaScript (Kenzie Academy, 2022, 15hs)
+  - NLW Return HTML, CSS e JavaScript (Roketseat, 2022, 20hs)
   
   ##
 <div>
