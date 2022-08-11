@@ -28,6 +28,7 @@
   - PyStack Week3.0 Python/Django (Pytonando, 2022, 20hs)
   - Maratona de Programação HTML, CSS e JavaScript (Kenzie Academy, 2022, 15hs)
   - NLW Return HTML, CSS e JavaScript (Roketseat, 2022, 20hs)
+  - Maratona Invertida, abordando HTML, CSS e JS (Kenzie Academy, 2022, 5hs)
   
   ##
 <div>
