@@ -17,14 +17,14 @@
 </div>
 
 ## Possuo os seguintes cursos na área de TI:
-  - Técnico em Manutenção e Montagem de Computadores (1999 - 60hs)
-  - Web Design (2001 - 40hs) 
+  - Tecnologia em Informática (1999 - 60hs)
+  - Web Design (DW) (2001 - 40hs) 
   - Redes TCP/IP e Telefonia (2006 - 36hs)
   - Administração de Redes Linux (2007 - 30hs)
   - CMS Joomla (2011 - 10hs)
   - Tecnologia da Informação (2011 - 20hs)
   - Lógica de Programação (2017 - 14hs)
-  - Linguagem de Programação C# Avançado (2022 - 12hs)
+  - C Sharp Avançado (2022 - 12hs)
   - Python/Django (2022 - 20hs)
   - HTML, CSS e JavaScript (2022 - 40hs)
   
