@@ -17,16 +17,17 @@
 </div>
 
 ## Possuo os seguintes cursos na área de TI:
-  - Tecnologia em Informática (1999 - 60hs)
-  - Web Design (DW) (2001 - 40hs) 
-  - Redes TCP/IP e Telefonia (2006 - 36hs)
-  - Administração de Redes Linux (2007 - 30hs)
-  - CMS Joomla (2011 - 10hs)
-  - Tecnologia da Informação (2011 - 20hs)
-  - Lógica de Programação (2017 - 14hs)
-  - C Sharp Avançado (2022 - 12hs)
-  - Python/Django (2022 - 20hs)
-  - HTML, CSS e JavaScript (2022 - 40hs)
+  - Tecnologia em Informática (1999)
+  - Básico HTML/CSS (2001)
+  - Web Design (DW) (2001) 
+  - Redes TCP/IP e Telefonia (2006)
+  - Administração de Redes Linux (2007)
+  - CMS Joomla (2011)
+  - Tecnologia da Informação (2011)
+  - Lógica de Programação (2017)
+  - C Sharp Avançado (2022)
+  - Python/Django (2022)
+  - HTML5, CSS3 e JavaScript (2022)
   
   ##
 <div>
